@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heder-Rocha tenho 39 anos.
-- 👀 I’m interested in consguir um oportunidade de aplicar meus conhecimentos!
+- 👀 I’m interested in conseguir um oportunidade de aplicar meus conhecimentos!
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT.
--  💞️ I’m looking to collaborate on  
+-  💞️ I’m looking to collaborate on com minhas habilidades e conhecimentos dentro do possível.  
 - 📫 How to reach me  https://www.linkedin.com/in/heder-rocha-carvalho-51944622a/
 05/02/2022
 <!---
